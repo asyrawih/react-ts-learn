@@ -1,0 +1,19 @@
+.TextField  {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.input-field { 
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 50px , 20px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.title { 
+    margin-top: 10px;
+    font-weight: 900;
+    font-size: 150px;
+}
